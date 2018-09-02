@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "881811957456",
+    "firebase_url": "https://spicemeet-34940.firebaseio.com",
+    "project_id": "spicemeet-34940",
+    "storage_bucket": "spicemeet-34940.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881811957456:android:aed3dac34cf1a1c6",
+        "android_client_info": {
+          "package_name": "com.spicemeet.www.spicemeet2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881811957456-tddpl7s43emnpndsdhh0jkn75bejlfl2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spicemeet.www.spicemeet2",
+            "certificate_hash": "cb4bd3590dbdfec0ee8b7298f7d25ff1c595e609"
+          }
+        },
+        {
+          "client_id": "881811957456-g8oc667vpmlrj19njgm15pugnp3r9tls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD59c_MCGAmnHZaCc558N6sdCdQMzwn2-A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881811957456-g8oc667vpmlrj19njgm15pugnp3r9tls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
